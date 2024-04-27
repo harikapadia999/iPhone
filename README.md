@@ -1,7 +1,6 @@
 <div align="center">
   <br />
- 
-    <a href="#" target="_blank">
+    <a href="https://github.com/harikapadia999" target="_blank">
       <img src="https://i.postimg.cc/37PnQw8n/Image-from.png" alt="Project Banner">
     </a>
   <br />
