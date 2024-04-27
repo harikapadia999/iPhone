@@ -16,7 +16,6 @@ const Navbar = () => {
               {nav}
             </div>
           ))}
-          aaaaaaaaaaa
         </div>
 
         <div className="flex items-baseline gap-7 max-sm:justify-end max-sm:flex-1">
